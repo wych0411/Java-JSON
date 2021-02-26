@@ -1,4 +1,4 @@
-# Parse Java Object to FastJson JSON
+# Parse Java Object to FastJson JSON string
 
 > JSON.toJSONString(Object obj);
 
