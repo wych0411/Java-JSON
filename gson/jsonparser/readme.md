@@ -1,0 +1,3 @@
+# JsonParser
+
+> 这是一个解析类。它可以把JSON数据分别通过getAsJsonObject和getAsJsonArray解析成JsonObject和JsonArray。
